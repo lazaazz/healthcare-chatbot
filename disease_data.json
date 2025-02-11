@@ -1,0 +1,18 @@
+{
+    "Diabetes": {
+      "Symptoms": "Frequent urination, excessive thirst, weight loss, fatigue",
+      "Cures": "Insulin therapy, lifestyle changes, oral medications",
+      "Precautions": "Regular exercise, balanced diet, monitor blood sugar"
+    },
+    "Malaria": {
+      "Symptoms": "High fever, chills, sweating, muscle aches, nausea",
+      "Cures": "Antimalarial drugs like chloroquine, artemisinin-based therapy",
+      "Precautions": "Use mosquito nets, apply insect repellent, take prophylactic medicine"
+    },
+    "Influenza (Flu)": {
+      "Symptoms": "Fever, cough, sore throat, muscle aches, fatigue",
+      "Cures": "Rest, hydration, antiviral medications like oseltamivir",
+      "Precautions": "Annual flu vaccine, hand hygiene, avoid close contact with sick people"
+    }
+  }
+  
